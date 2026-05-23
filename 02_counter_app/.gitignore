@@ -1,0 +1,24 @@
+﻿# Flutter/Dart tool artifacts
+.dart_tool/
+.pub/
+.pub-cache/
+
+# Build output
+build/
+
+# Flutter generated files
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.metadata
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
