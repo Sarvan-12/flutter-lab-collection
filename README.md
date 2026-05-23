@@ -1,10 +1,10 @@
-# 📱 Flutter Lab Collection
+# Flutter Lab Collection
 
 A collection of simple Flutter applications and UI exercises created during my college lab sessions.
 
 ---
 
-## 📂 Lab Index
+## Lab Index
 
 | Folder | Topic | Description |
 |--------|-------|-------------|
@@ -22,11 +22,11 @@ A collection of simple Flutter applications and UI exercises created during my c
 
 ---
 
-## 🚀 Clone & Setup
+## Clone & Setup
 
 ### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed and on your PATH
-- A connected device or emulator
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed and configured
+- An active emulator or connected physical device
 
 ### Steps
 
@@ -44,18 +44,16 @@ flutter pub get
 flutter run
 ```
 
-> Each lab is an independent Flutter project. Repeat steps 2–4 for any lab you want to run.
+> **Note:** Each directory is a self-contained Flutter project. Execute steps 2–4 inside whichever lab folder you wish to run.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **Language:** Dart
 - **Framework:** Flutter
-- **Packages:** `fl_chart` (lab 11)
+- **Language:** Dart
+- **Libraries:** `fl_chart` (Lab 11)
 
 ---
 
-## 📄 License
-
-This repository is for educational purposes. Feel free to explore and learn!
+If you found this repository helpful or learned something new, please consider giving it a ⭐!
