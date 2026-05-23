@@ -32,10 +32,10 @@ A collection of simple Flutter applications and UI exercises created during my c
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Sarvan-12/flutter-lab-collection-.git
+git clone https://github.com/Sarvan-12/flutter-lab-collection.git
 
 # 2. Navigate into any lab folder
-cd flutter-lab-collection-/01_hello_world
+cd flutter-lab-collection/01_hello_world
 
 # 3. Fetch dependencies
 flutter pub get
